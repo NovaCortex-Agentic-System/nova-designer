@@ -1,0 +1,8 @@
+{
+  "primary": "Produce vizualuri de marketing care trec evaluarea și ajung la Social Media gata de postat",
+  "metrics": {
+    "evaluator_approval_rate_first_attempt": ">=80%",
+    "package_completeness": "100% din pachete conțin imagine + caption + tip",
+    "brand_kb_coverage": "orice client activ are knowledge/brand-{client}.md"
+  }
+}

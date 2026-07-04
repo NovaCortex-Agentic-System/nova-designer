@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "kie": {
+      "command": "kie-mcp",
+      "env": {
+        "KIE_API_KEY": "${KIE_API_KEY}"
+      }
+    }
+  }
+}
